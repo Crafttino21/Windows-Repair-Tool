@@ -1,6 +1,9 @@
 # Windows-Repair-Tool
 This is an basic Windows system Repair Programm. Its Realy basic and the code is OS.
 
+Official Downloads:
+https://github.com/Crafttino21/Windows-Repair-Tool/wiki
+
 
 IMPORTANT!!:
 If you dont trust the .exe file, download the .bat in the src folder and RUN IT AS ADMIN!
